@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+<figure><embed src="https://wakatime.com/share/@018e9b87-337a-42bc-9b0e-2f5ff856c1d3/ccc4942d-3388-443c-96d0-d33437bb27eb.svg"></embed></figure>
+
 <!--
 **wandersoncosffer/wandersoncosffer** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
